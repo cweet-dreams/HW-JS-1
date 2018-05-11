@@ -6,24 +6,24 @@ const userName = 'Max';
 let userInfo;
 
 //2
-var test = 'string';
-console.log(test);
-
-var x = 'string';
-var x = 'string # 2';
-console.log(x);
+// var test = 'string';
+// console.log(test);
+//
+// var x = 'string';
+// var x = 'string # 2';
+// console.log(x);
 
 //3
-let test = 'string';
-console.log(test);
+// let test = 'string';
+// console.log(test);
 
 // const x = 'string';
 // x = 'string#2';
 // console.log(x);
 
-let someVariable = 15;
-let someVariable = 10;
-console.log(someVariable);
+// let someVariable = 15;
+// let someVariable = 10;
+// console.log(someVariable);
 
 
 // Строки. Задачи
