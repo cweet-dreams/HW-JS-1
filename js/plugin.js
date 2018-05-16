@@ -59,10 +59,13 @@ StringPosition = string.indexOf('string');
 console.log(StringPosition);
 
 //4
-SpacePosition = string.indexOf(' ');
-console.log(SpacePosition);
-SpacePosition2 = string.indexOf(' ', 5);
-console.log(SpacePosition2);
+// SpacePosition = string.indexOf(' ');
+// console.log(SpacePosition);
+// SpacePosition2 = string.indexOf(' ', 5);
+// console.log(SpacePosition2);
+let firstSpace = str.indexOf(' ');
+
+let secondSpace = str.indexOf(' ', firstSpace+1)
 
 //5
 NewString5 = string.substr(5, 4);
